@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.nav-link:hover {
+    font-weight: bold;
+    background-color: #c5203f;
+}
+
+.col-6,
+.col-4 {
+    cursor: pointer;
+}
+
+.footer {
+    height: 20rem;
+    background-color: black;
+}
+
+.foot {
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+}
+
+.foot:hover {
+    color: #c5203f;
+}
+
+.footer {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+
+}
